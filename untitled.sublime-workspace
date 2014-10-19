@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"uan",
+				"uang_transfer"
+			],
+			[
+				"tra",
+				"transfer"
+			],
+			[
+				"pe",
+				"pembayaran"
+			],
+			[
+				"id",
+				"id_transaksi"
+			],
+			[
+				"id_",
+				"id_rekening"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"tran",
+				"transaksi"
+			],
+			[
+				"pem",
+				"pembayaran"
+			],
+			[
+				"tr",
+				"transfer"
+			],
+			[
+				"pemb",
+				"pembayaran"
+			],
+			[
+				"id_p",
+				"id_pejabat"
+			],
+			[
+				"trans",
+				"transfer"
+			],
+			[
+				"id_pe",
+				"id_penjualan"
+			],
+			[
+				"ap",
+				"approval"
+			],
+			[
+				"aprov",
+				"aproval_m"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"apro",
+				"aproval_m"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"apr",
+				"aproval_m"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"reken",
+				"rekening_m"
+			],
+			[
+				"reke",
+				"rekening_m"
+			],
+			[
+				"rek",
+				"rekening_m"
+			],
+			[
+				"peja",
+				"pejabat_m"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"di",
+				"die"
+			],
+			[
+				"dis",
+				"diskon"
+			],
+			[
+				"diskon",
+				"diskon_m"
+			],
+			[
+				"pen",
+				"penjualan"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"cre",
+				"creditnote"
+			],
+			[
+				"c",
+				"creditnote"
+			],
+			[
+				"valid",
+				"validation_rules"
+			],
+			[
+				"penjua",
+				"penjualan_m"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"penju",
+				"penjualan_m"
+			],
+			[
+				"inse",
+				"insert"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get_by",
+				"get_many_by"
+			],
+			[
+				"explo",
+				"explode"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"peri",
+				"periode_awal"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"produk",
+				"produk_m"
+			],
+			[
+				"produ",
+				"produk_m"
+			],
+			[
+				"p",
+				"print_r"
+			],
+			[
+				"pro",
+				"produk"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"pel",
+				"pelanggan"
+			],
+			[
+				"inser",
+				"Insert"
+			],
+			[
+				"pela",
+				"pelanggan_m"
+			],
+			[
+				"lis",
+				"list_transfer"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"push",
+				"array_push"
+			],
+			[
+				"list_",
+				"list_transaksi"
+			],
+			[
+				"deta",
+				"detail_transaksi"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/untitled",
+		"/Users/ekoprastyo/public_html/jajanapa/index copy.php",
+		"/Users/ekoprastyo/public_html/jajanapa/thumb.php",
+		"/Users/ekoprastyo/projectWP/var/www/html/hidayatullah.com/engine/wp-content/mu-plugins/functions-time.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaDebitLimbahEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaB3_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/libraries/FusionCharts.php",
+		"/Users/ekoprastyo/public_html/sip/application/config/routes.php",
+		"/Users/ekoprastyo/public_html/sip/application/libraries/FusionCharts_deprecated.php",
+		"/Users/ekoprastyo/public_html/sip/application/libraries/xajax.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/analisaLimbahCair.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaan_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanIzin_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/kelompokParam_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/param_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaLimbahCair_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dampak_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/kelolaPantau.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/pelaksanaanKelolaPantau_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanDetailKelolaPantau_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/evaluasi.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanEvaluasi_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/login.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/user.php",
+		"/Users/ekoprastyo/public_html/sip/application/controllers/home.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanProfil_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/home_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/data_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/kontakBLH_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/menuAnalisa_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanProfil_view - Copy.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dampakKelola_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dampakPantau_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/kelolaPantau_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/evaluasiGrafik_view - Copy.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/evaluasiGrafik_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/excelData_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/pelaksanaanKelola_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/pelaksanaanPantau_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/data_view - Copy.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataLimbahCair_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerBatuBara_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerCangkang_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerMinyak_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaDryer_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaGenset_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSumur_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSungai_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaTungkuBakar_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/grafikDebitLimbah_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/grafikLimbahCair_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/user_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanKelolaPantau_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/kelompokParamDetail_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/kelompokParamEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/menu_view - Copy.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/menu_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanDetail_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/userEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/XXevaluasiGrafik_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaTanah_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataDebitLimbahEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataKapasitasLimbahEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataEdit_popup - Copy.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataLimbahCairEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/dataSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/delevaluasiGrafik_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaAirSungai_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerBatuBaraEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerBatuBaraLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerBatuBaraSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerCangkangEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerCangkangLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerCangkangSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerMinyakEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerMinyakLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerMinyakSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaDryerEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaDryerSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaGensetEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaGensetLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaGensetSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSumurEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSumurLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSumurSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSungaiEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSungaiLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSungaiSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaTungkuBakarEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaTungkuBakarLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaTungkuBakarSetting_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/grafikLimbahCair_viewold.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/grafik_view.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaLimbahCairEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaKapasitasLimbahEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/analisaTanahEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerBatuBaraRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerCangkangRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaBoilerMinyakRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaDryerLokasi_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaDryerRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaGensetRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSumurRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaSungaiRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/deprecated/analisaTungkuBakarRwaktu_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/paramEdit_popup.php",
+		"/Users/ekoprastyo/public_html/sip/application/views/perusahaanIzinEdit_popup.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/database/migrations/2014_02_10_212210_create_users_table.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/database/migrations/2014_02_10_221944_create_users_table.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/config/database.php",
+		"/Users/ekoprastyo/public_html/project/blog/bootstrap/start.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/views/users.blade.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/views/layout.blade.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/config/local/cache.php",
+		"/Users/ekoprastyo/public_html/sip/application/config/config.php",
+		"/Users/ekoprastyo/public_html/project/blog/app/routes.php",
+		"/Users/ekoprastyo/Documents/jajanapa/index.html",
+		"/Users/ekoprastyo/Documents/jajanapa/sass/app.scss",
+		"/Users/ekoprastyo/Documents/jajanapa/sass/_settings.scss",
+		"/Users/ekoprastyo/Documents/jajanapa/javascripts/vendor/jquery.backstretch.min.js",
+		"/Users/ekoprastyo/Documents/jajanapa/stylesheets/app.css",
+		"/Users/ekoprastyo/Library/Application Support/Sublime Text 2/Packages/User/LiveStyle.sublime-settings",
+		"/Users/ekoprastyo/public_html/foundation/try/jajanapa/sass/_settings.scss",
+		"/Users/ekoprastyo/public_html/foundation/try/jajanapa/sass/app.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/ekoprastyo/public_html/sip",
+			"/Users/ekoprastyo/public_html/laravel-dev",
+			"/Users/ekoprastyo/public_html/pyrocms/",
+			"/Users/ekoprastyo/public_html/pyrocms/addons/default/modules/transaksi",
+			"/Users/ekoprastyo/public_html/pyrocms/",
+			"/Users/ekoprastyo/public_html/pyrocms/addons/default/modules/transaksi/",
+			"/Users/ekoprastyo/public_html/pyrocms/addons/default/modules/transaksi/language/english",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"></",
+			"http://",
+			"<?",
+			"SWFPath",
+			"<?",
+			"foreach",
+			"><?					",
+			"td",
+			"php",
+			"perairan",
+			"perairan_terdekat",
+			"passwor",
+			"u?>",
+			"    <?\n	$i=$i+1;",
+			"j?>",
+			"k?>",
+			"l?>",
+			"l;?>",
+			"<?",
+			"Pengendalian",
+			"Pengendalian Pencemaran Udara",
+			"t?>",
+			"p?>",
+			"i?>",
+			"r?>",
+			"d?>",
+			"h?>",
+			"a?>",
+			"v?>",
+			"v?>\"",
+			"u?>\"",
+			"3?>\"",
+			"c?>\"",
+			"b?>\"",
+			"a?>\"",
+			"m?>\"",
+			"l?>\"",
+			"echo",
+			"<?php $",
+			"jenissumber?>\"",
+			"<?php $i?>",
+			"<? $i?>",
+			"$i?>",
+			"$id?>",
+			"$id",
+			"$rowNum]?>\"",
+			"\"<?php $_POST[",
+			"echo ",
+			"$idpsh?>",
+			"$rowNum]?>\"",
+			"<?php $_POST['",
+			"base_url()?>",
+			" $i?>",
+			"$",
+			"<?",
+			"<? ",
+			"Route",
+			"Base_Controller",
+			"channel",
+			"COFFEE",
+			"armsupp.c",
+			"radius",
+			"medium",
+			"var",
+			"\">\n",
+			"radius",
+			"form",
+			"smaller",
+			"table",
+			"html",
+			">",
+			"<",
+			">",
+			"<",
+			"bull",
+			"link",
+			"com",
+			"install",
+			"what is sas",
+			"/</",
+			"image",
+			"picture",
+			"delete(",
+			"id_transaksi",
+			"create",
+			"rekening",
+			"pembayaran:view_title",
+			"blog",
+			"publish(",
+			"admin/partials/buttons",
+			"id_jenis_transaksi",
+			"not permited",
+			"update",
+			"now()",
+			"id_transaksi",
+			"approve",
+			"id_jenis_aproval",
+			"publish",
+			"date",
+			"$this->current_user->id",
+			"publish",
+			"action",
+			"publish",
+			"transaksi:approve_title",
+			"approve_label",
+			"detail_transaksi",
+			"add_diskon",
+			"transaksi:creditnote:nama_label",
+			"transaksi:creditnote:create_title",
+			"delete(",
+			"delete()",
+			"delete",
+			"jenis_aproval",
+			"group_id",
+			"groups_select",
+			"create",
+			"method",
+			"transaksi:aproval:create_title",
+			"_check_slug_pelanggan",
+			"id_penjualan",
+			"delete",
+			" $",
+			"rekening",
+			"get_pejabat_by_id",
+			"penjualan",
+			"add_rekening",
+			"creditnote",
+			"rekening"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"u; ?>",
+			"    <?php \n	$i=$i+1;",
+			"j; ?>",
+			"k; ?>",
+			"l; ?>",
+			"t; ?>",
+			"p; ?>",
+			"i; ?>",
+			"r; ?>",
+			"d; ?>",
+			"h; ?>",
+			"a; ?>",
+			"v; ?>",
+			"v; ?>\"",
+			"u; ?>\"",
+			"3; ?>\"",
+			"c; ?>\"",
+			"b; ?>\"",
+			"a; ?>\"",
+			"m; ?>\"",
+			"l; ?>\"",
+			"<?php echo $",
+			"jenissumber; ?>\"",
+			"<?php echo $i; ?>",
+			"$rowNum]; ?>\"",
+			"\"<?php echo $_POST[",
+			" echo $idpsh; ?>",
+			"$rowNum]; ?>\"",
+			"<?php echo $_POST['",
+			" echo base_url(); ?>",
+			"echo $i; ?>",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"pembayaran"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": false
+}
